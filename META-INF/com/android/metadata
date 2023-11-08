@@ -1,4 +1,4 @@
-post-build=Xiaomi/aosp_violet/violet:10/QQ1B.200105.004/e096ccb016:userdebug/release-keys
-post-sdk-level=29
-post-security-patch-level=2020-01-01
-pre-device=violet
+post-build=OnePlus/Nord_IND/Nord:12/RKQ1.211119.001/Q.202301091130:user/release-keys
+post-sdk-level=33
+post-security-patch-level=2023-11-01
+pre-device=avicii

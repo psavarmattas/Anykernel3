@@ -4,9 +4,9 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=NeverSettle Kernel
-version.string=
-maintainer.string=Sreeshankar K
+kernel.string=PSM Kernel
+version.string=-kernel-version
+maintainer.string=PSavarMattas
 do.devicecheck=1
 do.modules=0
 do.systemless=0
