@@ -480,8 +480,8 @@ fi;
 setup_env;
 
 do_devicecheck;
-do_versioncheck;
-do_levelcheck;
+#do_versioncheck;
+#do_levelcheck;
 ui_print "=========================================";
 ui_print "Installing PSM Kernel...";
 ui_print "=========================================";
